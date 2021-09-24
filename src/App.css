@@ -1,0 +1,6 @@
+.appbox{
+    display: flex;
+}
+.write {
+    flex:auto;
+}
