@@ -22,7 +22,7 @@
     "styled-components": "^5.3.1",
     "web-vitals": "^2.1.0"
   },
-  "homepage": "https://ykedy.github.io/react-notepad/",
+  "homepage": "./",
   "scripts": {
     "start": "craco start",
     "build": "craco build",
